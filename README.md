@@ -2,7 +2,7 @@
 
 ## Course Info
 
-#### [Syllabus](https://docs.google.com/document/d/1AxfxFss_p_9C3MvgZCJwqjbkDO-DgOZ4cyRn7IIoXF8/edit?usp=sharing)  
+#### [Syllabus](https://docs.google.com/document/d/1Tr95oZmT5WZRNap2erRrcYvEujPS83eF7qL0AfdZVLY/edit?usp=sharing)  
 
 **Time**: Monday & Wednesday 11:00 AM - 12:20 PM  
 **Location**: WEH 2302  
