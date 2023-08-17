@@ -1,13 +1,13 @@
-# 16-741: Mechanics of Manipulation (Fall 2022)
+# 16-741: Mechanics of Manipulation (Fall 2023)
 
 ## Course Info
 
 #### [Syllabus](https://docs.google.com/document/d/1AxfxFss_p_9C3MvgZCJwqjbkDO-DgOZ4cyRn7IIoXF8/edit?usp=sharing)  
 
-**Time**: Monday & Wednesday 11:50 AM - 1:10 PM  
-**Location**: NSH 3002  
+**Time**: Monday & Wednesday 11:00 AM - 12:20 PM  
+**Location**: WEH 2302  
 **Instructor**: [Zackory Erickson](https://zackory.com)  
-**Office Hours**: Wednesday 1:10 - 2:00 PM  
+**Office Hours**: Upon request  
 
 ---
 
