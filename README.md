@@ -18,7 +18,7 @@ Mechanics of Manipulation is a graduate level course that dives into the fundame
 ## Textbook
 
 Mechanics of Robotic Manipulation, by Matthew T. Mason. MIT Press, 2001.  
-You can reach the online version of the textbook [here](http://cognet.mit.edu/library/books/view?isbn=0262133962).  
+You can reach the online version of the textbook [here](https://direct.mit.edu/books/book/3869/Mechanics-of-Robotic-Manipulation).  
 [Errata page](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/Errata.txt)
 
 ## Additional Resources
