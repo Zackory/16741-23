@@ -40,7 +40,7 @@ How do you find a good topic? Life is full of manipulation problems, most of whi
 If you have some ideas but could use some help focusing on a clearly defined manageable problem, I'd be glad to discuss it with you.
 
 Below are a few final project submissions from prior years:  
-(2023): [Sample 1](papers/final_logstructures.pdf) [Sample 2](papers/final_flow.pdf)  
+(2023): [Sample 1](papers/final_logstructures.pdf), [Sample 2](papers/final_flow.pdf)  
 (2016) (not in IEEE format): [Sample 1](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/yifanh_project.pdf), [Sample 2](https://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/sample_projects/spurushw_report.pdf)
 
 1. Here are some titles of recent projects, to give you some ideas of suitable topics:
